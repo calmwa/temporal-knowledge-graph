@@ -1,0 +1,6 @@
+.env
+.env.*
+__pycache__/
+.venv/
+*.pyc
+knowledge_graph.json

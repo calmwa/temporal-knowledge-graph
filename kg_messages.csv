@@ -1,0 +1,6 @@
+created_at,author_id,content
+2026-10-12 21:06:50+00,0e1f9cc263accc0ca21e6b509f3af1852af7c627dc98f12e8b2fb083f0d530d6,Alice CNNs can recognize patterns in medical images.
+2026-10-12 21:06:56+00,0e1f9cc263accc0ca21e6b509f3af1852af7c627dc98f12e8b2fb083f0d530d6,Bob: Can CNNs detect tumors in medical images?
+2026-10-12 21:07:01+00,0e1f9cc263accc0ca21e6b509f3af1852af7c627dc98f12e8b2fb083f0d530d6,Charlie: We should preprocess the images before training the CNN.
+2026-10-12 21:07:06+00,0e1f9cc263accc0ca21e6b509f3af1852af7c627dc98f12e8b2fb083f0d530d6,Alice: Preprocessing can include resizing and normalization.
+2026-10-12 21:07:10+00,0e1f9cc263accc0ca21e6b509f3af1852af7c627dc98f12e8b2fb083f0d530d6,Bob: So preprocessing improves the consistency of the training data.
